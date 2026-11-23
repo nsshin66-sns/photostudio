@@ -1,0 +1,33 @@
+{
+  "name": "인터넷 사진관",
+  "short_name": "인터넷 사진관",
+  "description": "JPG·GIF·PNG·WEBP·ICO 상호 변환 및 여권·반명함·명함 사진 자동 맞춤 스튜디오 (by 신남식)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "app-192-v60.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-512-v60.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "app-maskable-512-v60.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./?app=photostudio-v60"
+}
